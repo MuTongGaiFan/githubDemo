@@ -5,5 +5,6 @@ public class HelloGit {
         System.out.println("你好啊，我叫赛利亚");
         System.out.println("hello word");
         System.out.println("hello github");
+        System.out.println("hello github1");
     }
 }
