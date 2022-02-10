@@ -8,5 +8,6 @@ public class HelloGit {
         System.out.println("hello github1");
         System.out.println("master-test");
         System.out.println("backup-test");
+        System.out.println("push to the github web");
     }
 }
